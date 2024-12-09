@@ -368,8 +368,7 @@ margin-left: 400px;
 /* Slider */
 .background_main{
 
-        width: 100%;
-        background-image: url("/user/images/logoclass.png");
+        
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
